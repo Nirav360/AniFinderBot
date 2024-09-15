@@ -1,0 +1,23 @@
+{
+  "name": "anifinder",
+  "version": "1.0.0",
+  "description": "Anime Finder Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon index.js"
+  },
+  "author": "Nirav Shah",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.2",
+    "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.10.0",
+    "eslint": "^9.10.0",
+    "globals": "^15.9.0",
+    "nodemon": "^3.1.4"
+  }
+}
